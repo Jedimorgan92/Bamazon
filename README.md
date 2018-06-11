@@ -1,7 +1,7 @@
 # Bamazon
 Week 12
 
-Link to video: https://drive.google.com/file/d/1ODquuAChejpwBpO38sDSIfcap9pzkIdE/view
+Link to video: https://drive.google.com/file/d/1DZUy4OfM4aN36U7ROl4p0d-El4MMUEUk/view
 
 
 
